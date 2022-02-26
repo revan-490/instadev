@@ -2,8 +2,11 @@
 ```
 # Jangan Lupa Bintang Nya Dan FOLLOW Github Gue
 ```
+### Hasil Crack:
+![template_s](https://github.com/Dicky-XD/instadev/blob/main/Screenshot_2022-02-21_063718.jpg)
+![template_s](https://github.com/Dicky-XD/instadev/blob/main/Screenshot_2022-02-20_214640.jpg)
+![template_s](https://github.com/Dicky-XD/instadev/blob/main/Screenshot_2022-02-21_153523.jpg)
 #### ⇨  Install Script Di Termux
-```
 $ pkg update && upgrade  
 $ termux-setup-storage  
 $ pkg install python2  
