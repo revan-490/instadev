@@ -20,6 +20,6 @@ $ git clone https://github.com/Dicky-XD/instadev
 #### ⇨  Menjalankan Script
 ```
 $ cd instadev  
-$ python2 instadev.py  
+$ python2 instadev.pyc
 ```
 
